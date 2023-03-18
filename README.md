@@ -4,6 +4,9 @@
 
 На данный момент являюсь начинающим специалистом в области анализа данных. Для повышения своей экспертности в данном направлении стараюсь регулярно решать задачи на Python и SQL, читать интересные статьи, а также смотреть видео в просторах интернета.  
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Vadim70151/Vadim70151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
